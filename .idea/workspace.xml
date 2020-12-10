@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="865e230e-d5a1-4bca-a42c-9b20dfef5eec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +133,30 @@
       <path value="$PROJECT_DIR$/vendor/psr/container" />
       <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
       <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/vendor/kreait/laravel-firebase" />
+      <path value="$PROJECT_DIR$/vendor/kreait/firebase-tokens" />
+      <path value="$PROJECT_DIR$/vendor/kreait/firebase-php" />
+      <path value="$PROJECT_DIR$/vendor/kreait/clock" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/riverline/multipart-parser" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/vendor/giggsey/locale" />
+      <path value="$PROJECT_DIR$/vendor/giggsey/libphonenumber-for-php" />
+      <path value="$PROJECT_DIR$/vendor/google/crc32" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-storage" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-core" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/vendor/google/gax" />
+      <path value="$PROJECT_DIR$/vendor/google/protobuf" />
+      <path value="$PROJECT_DIR$/vendor/google/grpc-gcp" />
+      <path value="$PROJECT_DIR$/vendor/google/common-protos" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-firestore" />
+      <path value="$PROJECT_DIR$/vendor/grpc/grpc" />
     </include_path>
   </component>
   <component name="ProjectId" id="1lOmrsAIC6NHsXMIslai5kJyuvs" />
@@ -147,6 +171,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -166,6 +191,10 @@
       <workItem from="1607476717036" duration="2759000" />
       <workItem from="1607548143679" duration="67000" />
       <workItem from="1607615359692" duration="6131000" />
+      <workItem from="1607642636706" duration="106000" />
+      <workItem from="1607642789729" duration="924000" />
+      <workItem from="1607643798107" duration="45000" />
+      <workItem from="1607643877676" duration="62000" />
     </task>
     <servers />
   </component>
@@ -182,5 +211,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

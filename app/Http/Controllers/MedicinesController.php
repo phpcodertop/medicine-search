@@ -12,16 +12,4 @@ class MedicinesController extends Controller
     {
         return view('medicines');
     }
-
-    public function datatable()
-    {
-        $medicines = Medicine::all();
-        return DataTables::of($medicines)
-            ->addColumn('imageWithUrl', function ($medicine)   {
-                return '<a target="_blank" href="'.$medicine['image'].'" >
-                Image Url
-                </a>';
-            })
-            ->make(true);
-    }
 }
